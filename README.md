@@ -29,5 +29,11 @@ OLT Secure Browser is an enterprise-grade, Kiosk-mode desktop application built 
 * **Institution:** Pranveer Singh Institute of Technology (PSIT), Kanpur
 * **Version:** 1.0 (Enterprise Edition)
 
+
+## 🎥 Project Demo Video :-
+
+👉 **[Click here to watch the Live Demo of OLT Secure Browser](https://drive.google.com/file/d/1C_pcQgCX7wL9h8JgLTM0hC7AfdmTU2R1/view?usp=sharing)**
+
+
 ---
 *Note: This project is strictly for educational purposes and academic demonstration.*
